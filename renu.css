@@ -323,6 +323,8 @@ padding:10px 20px;
 .fotter_wrapper .social-icon li{
   margin:6px;
 }
+.footer_wrapper .social-icon {
+  text-algin:"center"}
 .footer_wrapper .social-icon a{
   width:35px;
   height:35px;
